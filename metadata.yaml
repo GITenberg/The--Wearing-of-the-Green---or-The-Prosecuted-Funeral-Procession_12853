@@ -1,0 +1,28 @@
+_repo: The--Wearing-of-the-Green---or-The-Prosecuted-Funeral-Procession_12853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sullivan, A.M. (Alexander Martin)
+    alias: Sullivan, Alexander Martin
+    birthdate: 1830
+    deathdate: 1884
+    gutenberg_agent_id: '4671'
+    url: http://www.gutenberg.org/2009/agents/4671
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Martin_Sullivan_(Irish_politician)
+description: ''
+gutenberg_issued: '2004-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1837-1901'
+- !lcsh 'Manchester martyrs, 1867'
+- !lcsh 'Trials (Political crimes and offenses) -- Ireland'
+- !lcc 'DA'
+- GITenberg
+title: The "Wearing of the Green," or The Prosecuted Funeral Procession
+url: http://www.gutenberg.org/ebooks/12853
